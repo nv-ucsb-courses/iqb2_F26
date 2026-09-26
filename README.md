@@ -1,7 +1,7 @@
 # UCSB: iQB2 - Structural Biology Modlule
 
 ![banner](banner/banner.png)
-
+<!--
 ## Homework
 
 Homework was posted [here](https://github.com/nv-ucsb-courses/iqb2/tree/main/homework). Return by email by December 10th, 11:59PM.
@@ -25,7 +25,7 @@ Homework was posted [here](https://github.com/nv-ucsb-courses/iqb2/tree/main/hom
 | **Izaiah**         |  3:00 - 3:30   | Actin: Oosterheert et al. 2022 |
 | *Wrapup*           |  3:30 - 4:00   |   |
 
-<!-- As you can see, the schedule is pretty tight. Please make sure you do not go over your alloted time, otherwise I will have to cut you off. -->
+As you can see, the schedule is pretty tight. Please make sure you do not go over your alloted time, otherwise I will have to cut you off. 
 
 <br>
 
@@ -37,7 +37,7 @@ lst = [i[:-1] for i in open('student_list.txt').readlines()]
 shuffle (lst)
 for name in lst: print(name)
 ```
-
+-->
 
 ## General Information
 
