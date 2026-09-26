@@ -105,6 +105,7 @@ relion &
 <br>
 -->
 
+<!--
 ## User/GPU Assignments
 
 | Name      | # | GPU id |
@@ -116,3 +117,4 @@ relion &
 | Xieergai  | 5 |    2   |
 | Binbin    | 6 |    2   |
 | Izaiah    | 7 |    3   |
+-->
