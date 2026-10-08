@@ -4,7 +4,7 @@
 
 ## Homework
 
-Homework was posted [here](https://github.com/nv-ucsb-courses/iqb2/tree/main/homework). Return by email (nvo@ucsb.edu) by October 14th, 11:59PM.
+Homework was posted [here](https://github.com/nv-ucsb-courses/iqb2_F26/tree/main/homework). Return by email (nvo@ucsb.edu) by October 14th, 11:59PM.
 
 <br>
 
