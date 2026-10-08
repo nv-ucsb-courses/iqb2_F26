@@ -28,16 +28,6 @@ Homework was posted [here](https://github.com/nv-ucsb-courses/iqb2_F26/tree/main
 As you can see, the schedule is pretty tight. Please make sure you do not go over your alloted time, otherwise I will have to cut you off. 
 
 <br>
-<!--
-Here is the Python code I used to get the randomized list (starting with an alphabetical list):
-
-```python
-from random import shuffle
-lst = [i[:-1] for i in open('student_list.txt').readlines()]
-shuffle (lst)
-for name in lst: print(name)
-```
--->
 
 ## General Information
 
