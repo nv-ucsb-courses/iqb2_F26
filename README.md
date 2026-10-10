@@ -12,8 +12,8 @@ Homework was posted [here](https://github.com/nv-ucsb-courses/iqb2_F26/tree/main
 
 | Name               |  Time          | 
 |--------------------|----------------|
-| **Parker**         |  10:00 - 10:30 | 
-| **Brennen**        |  10:30 - 11:00 | 
+| **Brennen**        |  10:00 - 10:30 | 
+| **Parker**         |  10:30 - 11:00 | 
 | *Break*            |  11:00 - 11:10 | 
 | **Jenny**          |  11:10 - 11:40 | 
 | **Sonny**          |  11:40 - 12:10 | 
